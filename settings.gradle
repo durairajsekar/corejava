@@ -1,0 +1,3 @@
+rootProject.name = 'corejava'
+
+include 'java11'
